@@ -25,7 +25,7 @@ const DEFAULT_BASE_URL = 'https://grave9.com';
 // GHL contact form. Lives on api.leadconnectorhq.com regardless of where
 // the site is hosted, so it's checked as an absolute URL. Until the Grave 9
 // form ID is provided, the form check will fail; that's expected.
-const GHL_FORM_ID  = 'GRAVE9_FORM_ID_PENDING';
+const GHL_FORM_ID  = 'wFGqT3GqJaEqlA7amF3Z';
 const GHL_FORM_URL = `https://api.leadconnectorhq.com/widget/form/${GHL_FORM_ID}`;
 
 const REQUIRED_PAGES = {
