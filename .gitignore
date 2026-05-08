@@ -1,0 +1,11 @@
+node_modules/
+.tmp/
+.env
+.DS_Store
+Thumbs.db
+*.log
+
+# Local tooling and credentials
+.claude/
+credentials.json
+token.json
